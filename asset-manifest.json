@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JDnews/static/css/main.69491f52.css",
+    "main.js": "/JDnews/static/js/main.0ef2c39d.js",
+    "static/js/453.ff935552.chunk.js": "/JDnews/static/js/453.ff935552.chunk.js",
+    "index.html": "/JDnews/index.html",
+    "main.69491f52.css.map": "/JDnews/static/css/main.69491f52.css.map",
+    "main.0ef2c39d.js.map": "/JDnews/static/js/main.0ef2c39d.js.map",
+    "453.ff935552.chunk.js.map": "/JDnews/static/js/453.ff935552.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69491f52.css",
+    "static/js/main.0ef2c39d.js"
+  ]
+}
