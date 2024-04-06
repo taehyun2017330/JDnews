@@ -89,7 +89,7 @@ function App() {
     formData.append('image', blob, 'photo.png');
     formData.append('level', buttonClicked);
 
-    fetch('https://young-refuge-08183-6b3bc667022a.herokuapp.com/process-image', {
+    fetch('https://jdnewsback-3274c68e8993.herokuapp.com/process-image', {
       method: 'POST',
       body: formData,
     })
